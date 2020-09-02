@@ -1,6 +1,5 @@
-### Hey there 👋
 
-I’m Will, I work as a data analyst at the BBC specialising in data visualisation and automated processes.
+<img src = "./header.gif">
 
 <strong>🔭 Currently focusing on</strong>
 
