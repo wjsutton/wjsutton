@@ -1,5 +1,5 @@
 
-<img src = "header.gif">
+<img src = "https://giphy.com/embed/US1gFtWV9oomA2qPmg">
 
 <strong>🔭 Currently focusing on</strong>
 
