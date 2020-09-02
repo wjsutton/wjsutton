@@ -1,5 +1,5 @@
 
-<img src = "https://media.giphy.com/media/US1gFtWV9oomA2qPmg/giphy.gif">
+<img src = "https://media.giphy.com/media/US1gFtWV9oomA2qPmg/giphy.gif" width="100%">
 
 <strong>🔭 Currently focusing on</strong>
 
