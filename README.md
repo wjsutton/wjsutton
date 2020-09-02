@@ -1,4 +1,27 @@
-### Hi there 👋
+### Hey there 👋
+
+I’m Will, I work as a data analyst at the BBC specialising in data visualisation and automated processes.
+
+<strong>🔭 Currently focusing on</strong>
+
+<a href="https://github.com/wjsutton/arthurian_legend"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=wjsutton&repo=arthurian_legend" width=350> </a> <!--a href="https://github.com/wjsutton/wjsutton.github.io"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=wjsutton&repo=wjsutton.github.io" width=350> </a-->
+
+
+<strong>📫 Where to contact me</strong>
+
+- [Twitter][Twitter] :speech_balloon:
+- [LinkedIn][LinkedIn] :necktie:
+- [Website][Website] :link:
+
+
+<!--
+Quick Link 
+-->
+
+[Twitter]:https://twitter.com/WJSutton12
+[LinkedIn]:https://www.linkedin.com/in/will-sutton-14711627/
+[GitHub]:https://github.com/wjsutton
+[Website]:https://wjsutton.github.io/
 
 <!--
 **wjsutton/wjsutton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
