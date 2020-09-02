@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<link href="https://fonts.googleapis.com/css2?family=Ubuntu&display=swap" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="./styles.css" />
+</head>
+<body>
+<div id="particles-js">
+    <div id="typewriter"></div>
+</div>
+
+
+<script src="./particles.js"></script>
+<script src="./app.js"></script>
+<script src="https://unpkg.com/typewriter-effect@latest/dist/core.js"></script>
+<script type="text/javascript">
+    const instance = new Typewriter('#typewriter', {
+    loop: true
+});
+
+    instance.typeString("Hey! 👋")
+    .pauseFor(1000)
+    .deleteAll()
+    .typeString("I'm Will, a data analyst based in London")
+    .pauseFor(1000)
+    .deleteAll()
+    .typeString('A general problem solver with data')
+    .pauseFor(1000)
+    .deleteAll()
+    .typeString('Check out my work below')
+    .pauseFor(3000)
+    .deleteAll()
+    .start();
+  </script>
+</body>
+</html>
