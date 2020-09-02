@@ -1,5 +1,5 @@
 
-<img src = "./header.gif">
+<img src = "header.gif">
 
 <strong>🔭 Currently focusing on</strong>
 
