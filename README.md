@@ -3,7 +3,7 @@
 
 <strong>🔭 Currently focusing on</strong>
 
-<a href="https://github.com/wjsutton/arthurian_legend"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=wjsutton&repo=arthurian_legend" width=300> </a> <!--a href="https://github.com/wjsutton/wjsutton.github.io"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=wjsutton&repo=wjsutton.github.io" width=350> </a-->
+<a href="https://github.com/wjsutton/fastest_marathon_dressed_as"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=wjsutton&repo=fastest_marathon_dressed_as" width=300> </a> <!--a href="https://github.com/wjsutton/wjsutton.github.io"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=wjsutton&repo=wjsutton.github.io" width=350> </a-->
 
 <strong>⭐ Favourite Projects</strong>
 
