@@ -7,15 +7,15 @@
 
 <strong>⭐ Favourite Projects</strong>
 
-- [Building a webpage of Iron Viz submissions from Twitter](https://github.com/wjsutton/ironviz_2020_gallery)
-- [An R shiny app quiz based on the TV show House of Games](https://github.com/wjsutton/house_of_games)
-- [Webscraping a book to build a Tableau dashboard](https://github.com/wjsutton/arthurian_legend)
+- [Building a gallery of Iron Viz submissions from Twitter for easy discovery & consumption](https://github.com/wjsutton/ironviz_2020_gallery)
+- [Reducing lockdown boredom with an on-demand quiz based on the TV show House of Games](https://github.com/wjsutton/house_of_games)
+- [Retelling the legend of King Arthur as an interactive visualisation](https://github.com/wjsutton/arthurian_legend)
 
 <strong>🔨 Tools I've built for faster data analysis</strong> 
 
-- [A gallery of R ggplot2 templates](https://github.com/wjsutton/ggplot2_snippets)
-- [A script to analysis datasets and produce a report](https://github.com/wjsutton/data_profiler)
-- [A collection of useful R functions to use across projects](https://github.com/wjsutton/useful_r_functions)
+- [Faster data viz with a gallery of R ggplot2 templates](https://github.com/wjsutton/ggplot2_snippets)
+- [Automated data analysis and data quality reporting with R](https://github.com/wjsutton/data_profiler)
+- [Reproducible coding with a collection of useful R functions](https://github.com/wjsutton/useful_r_functions)
 
 <strong>📫 Where to contact me</strong>
 
