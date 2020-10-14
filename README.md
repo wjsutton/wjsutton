@@ -3,7 +3,7 @@
 
 <strong>🔭 Currently focusing on</strong>
 
-<a href="https://github.com/wjsutton/beer_mile_records"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=wjsutton&repo=beer_mile_records" width=300> </a> <!--a href="https://github.com/wjsutton/wjsutton.github.io"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=wjsutton&repo=wjsutton.github.io" width=350> </a-->
+<a href="https://github.com/wjsutton/world_major_marathons"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=wjsutton&repo=world_major_marathons" width=300> </a> <!--a href="https://github.com/wjsutton/wjsutton.github.io"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=wjsutton&repo=wjsutton.github.io" width=350> </a-->
 
 <strong>⭐ Favourite Projects</strong>
 
