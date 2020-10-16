@@ -3,7 +3,9 @@
 
 <strong>🔭 Currently focusing on</strong>
 
-<a href="https://github.com/wjsutton/world_major_marathons"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=wjsutton&repo=world_major_marathons" width=300> </a> <!--a href="https://github.com/wjsutton/wjsutton.github.io"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=wjsutton&repo=wjsutton.github.io" width=350> </a-->
+<a href="https://github.com/wjsutton/world_major_marathons"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=wjsutton&repo=world_major_marathons" width=300> </a> 
+<a href="https://github.com/wjsutton/introduction_to_statistical_learning_exercises"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=wjsutton&repo=introduction_to_statistical_learning_exercises" width=300> </a>
+<!--a href="https://github.com/wjsutton/wjsutton.github.io"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=wjsutton&repo=wjsutton.github.io" width=350> </a-->
 
 <strong>⭐ Favourite Projects</strong>
 
