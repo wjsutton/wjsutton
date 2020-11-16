@@ -3,8 +3,8 @@
 
 <strong>🔭 Currently focusing on</strong>
 
-<a href="https://github.com/wjsutton/pogo_shiny_colour_difference"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=wjsutton&repo=pogo_shiny_colour_difference" width=300> </a> 
-<!--a href="https://github.com/wjsutton/introduction_to_statistical_learning_exercises"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=wjsutton&repo=introduction_to_statistical_learning_exercises" width=300> </a-->
+<a href="https://github.com/wjsutton/tableau_public_api"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=wjsutton&repo=tableau_public_api" width=300> </a> 
+<a href="https://github.com/wjsutton/viz2educate_geography"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=wjsutton&repo=viz2educate_geography" width=300> </a>
 <!--a href="https://github.com/wjsutton/wjsutton.github.io"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=wjsutton&repo=wjsutton.github.io" width=350> </a-->
 
 <strong>⭐ Favourite Projects</strong>
