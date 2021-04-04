@@ -4,7 +4,7 @@
 <strong>🔭 Currently focusing on</strong>
 
 <a href="https://github.com/wjsutton/tableau_public_api"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=wjsutton&repo=tableau_public_api" width=300> </a> 
-<a href="https://github.com/wjsutton/life_expectancy_in_chess"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=wjsutton&repo=life_expectancy_in_chess" width=300> </a>
+<a href="https://github.com/wjsutton/howlongtobeat_dataviz"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=wjsutton&repo=howlongtobeat_dataviz" width=300> </a>
 <!--a href="https://github.com/wjsutton/wjsutton.github.io"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=wjsutton&repo=wjsutton.github.io" width=350> </a-->
 
 <strong>⭐ Favourite Projects</strong>
