@@ -1,16 +1,16 @@
 
-<img src = "https://media.giphy.com/media/US1gFtWV9oomA2qPmg/giphy.gif" width="100%">
+<img src = "https://media.giphy.com/media/US1gFtWV9oomA2qPmg/giphy.gif" width="90%">
 
 <strong>⭐ Data Viz Projects</strong>
 
 <a href='https://github.com/wjsutton/driving_test_pass_rates'>
-  <img src = "cards/driving_card.png" width="33%">
+  <img src = "cards/driving_card.png" width="30%">
 </a>
 <a href='https://github.com/wjsutton/Tour-De-France'>
-  <img src = "cards/tdf_card.png" width="33%">
+  <img src = "cards/tdf_card.png" width="30%">
 </a>
 <a href='https://github.com/wjsutton/tableau_public_api'>
-  <img src = "cards/votd_card.png" width="33%">
+  <img src = "cards/votd_card.png" width="30%">
 </a>
 
 <strong>⭐ Coding Projects</strong>
