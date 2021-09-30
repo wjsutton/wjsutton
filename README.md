@@ -1,13 +1,19 @@
 
 <img src = "https://media.giphy.com/media/US1gFtWV9oomA2qPmg/giphy.gif" width="100%">
 
-<strong>🔭 Currently focusing on</strong>
+<strong>⭐ Data Viz Projects</strong>
 
-<a href="https://github.com/wjsutton/tableau_public_api"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=wjsutton&repo=tableau_public_api" width=300> </a> 
-<a href="https://github.com/wjsutton/howlongtobeat_dataviz"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=wjsutton&repo=howlongtobeat_dataviz" width=300> </a>
-<!--a href="https://github.com/wjsutton/wjsutton.github.io"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=wjsutton&repo=wjsutton.github.io" width=350> </a-->
+<a href='https://github.com/wjsutton/driving_test_pass_rates'>
+  <img src = "cards/driving_card.png" width="33%">
+</a>
+<a href='https://github.com/wjsutton/Tour-De-France'>
+  <img src = "cards/tdf_card.png" width="33%">
+</a>
+<a href='https://github.com/wjsutton/tableau_public_api'>
+  <img src = "cards/votd_card.png" width="33%">
+</a>
 
-<strong>⭐ Favourite Projects</strong>
+<strong>⭐ Coding Projects</strong>
 
 - [Building a gallery of Iron Viz submissions from Twitter for easy discovery & consumption](https://github.com/wjsutton/ironviz_2020_gallery)
 - [Reducing lockdown boredom with an on-demand quiz based on the TV show House of Games](https://github.com/wjsutton/house_of_games)
