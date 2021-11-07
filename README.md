@@ -1,6 +1,15 @@
 
 <img src = "https://media.giphy.com/media/US1gFtWV9oomA2qPmg/giphy.gif" width="90%">
 
+<strong>⭐ Community Project: #GamesNightViz</strong>
+
+Data visualisation, design and data prep challenges using data from games.
+
+<a href='https://github.com/wjsutton/games_night_viz'>
+  <img src='https://github.com/wjsutton/games_night_viz/blob/main/icons/banner_icon.png?raw=true' width='60%' >
+</a>
+<br><br>
+
 <strong>⭐ Data Viz Projects</strong>
 
 <a href='https://github.com/wjsutton/driving_test_pass_rates'>
