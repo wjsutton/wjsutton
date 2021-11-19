@@ -1,7 +1,17 @@
+<!--img src='https://avatars.githubusercontent.com/u/34423757?v=4' width="20%"-->
 
-<img src = "https://media.giphy.com/media/US1gFtWV9oomA2qPmg/giphy.gif" width="90%">
+<a><img align="left" src = "https://avatars.githubusercontent.com/u/34423757?v=4" width="28%"></a>
+# Will Sutton
+**Senior Data Analyst at WorldRemit | London, United Kingdom**<br><br>
+I've been working with data for over 10 years and now work as a Senior Data Analyst using data to help inform business decisions. 
 
-<strong>⭐ Community Project: #GamesNightViz</strong>
+I owe a large amount of my career development down to passion projects; either part of the Tableau community, producing insights for my running club, or just questions I wanted to know the answers to. 
+
+Below you'll find some of my favourite projects highlighted with documentation here on [GitHub](https://github.com/wjsutton), and many becoming data visualisations for my [Tableau Public Profile](https://public.tableau.com/app/profile/wjsutton) 
+
+<!--img src = "https://media.giphy.com/media/US1gFtWV9oomA2qPmg/giphy.gif" width="90%"-->
+
+## ⭐ Community Project: #GamesNightViz
 
 Data visualisation, design and data prep challenges using data from games.
 
@@ -10,7 +20,7 @@ Data visualisation, design and data prep challenges using data from games.
 </a>
 <br><br>
 
-<strong>⭐ Data Viz Projects</strong>
+## ⭐ Data Viz Projects
 
 <a href='https://github.com/wjsutton/driving_test_pass_rates'>
   <img src = "cards/driving_card.png" width="30%">
@@ -22,8 +32,9 @@ Data visualisation, design and data prep challenges using data from games.
   <img src = "cards/votd_card.png" width="30%">
 </a>
 
-<strong>⭐ Coding Projects</strong>
+## ⭐ Coding Projects
 
+- [Progressing my Python skills with Preppin' Data Challenges](https://github.com/wjsutton/preppin-data)
 - [Building a gallery of Iron Viz submissions from Twitter for easy discovery & consumption](https://github.com/wjsutton/ironviz_2020_gallery)
 - [Reducing lockdown boredom with an on-demand quiz based on the TV show House of Games](https://github.com/wjsutton/house_of_games)
 - [Preserving my data from Halo 2 & 3 online matches](https://github.com/wjsutton/halostats)
