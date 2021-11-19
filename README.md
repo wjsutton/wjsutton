@@ -5,7 +5,7 @@
 **Senior Data Analyst at WorldRemit | London, United Kingdom**<br><br>
 I've been working with data for over 10 years and now work as a Senior Data Analyst using data to help inform business decisions. 
 
-I owe a large amount of my career development down to passion projects; either part of the Tableau community, producing insights for my running club, or just questions I wanted to know the answers to. 
+I owe a large amount of my career development down to passion projects; either part of the Tableau community, producing insights for my running club, or questions I wanted to know the answers to. 
 
 Below you'll find some of my favourite projects highlighted with documentation here on [GitHub](https://github.com/wjsutton), and many becoming data visualisations for my [Tableau Public Profile](https://public.tableau.com/app/profile/wjsutton) 
 
