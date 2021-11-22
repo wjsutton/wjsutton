@@ -34,7 +34,10 @@ Data visualisation, design and data prep challenges using data from games.
 
 ## ⭐ Coding Projects
 
-- [Progressing my Python skills with Preppin' Data Challenges](https://github.com/wjsutton/preppin-data)
+<a href='https://github.com/wjsutton/preppin-data'>
+  <img src = "cards/preppin_card.png" width="30%">
+</a>
+
 - [Building a gallery of Iron Viz submissions from Twitter for easy discovery & consumption](https://github.com/wjsutton/ironviz_2020_gallery)
 - [Reducing lockdown boredom with an on-demand quiz based on the TV show House of Games](https://github.com/wjsutton/house_of_games)
 - [Preserving my data from Halo 2 & 3 online matches](https://github.com/wjsutton/halostats)
