@@ -2,7 +2,7 @@
 
 <a><img align="left" src = "https://avatars.githubusercontent.com/u/34423757?v=4" width="28%"></a>
 # Will Sutton
-**Senior Data Analyst at WorldRemit | London, United Kingdom**<br><br>
+**Consultant at The Information Lab | London, United Kingdom**<br><br>
 I've been working with data for over 10 years and now work as a Senior Data Analyst using data to help inform business decisions. 
 
 I owe a large amount of my career development down to passion projects; either part of the Tableau community, producing insights for my running club, or questions I wanted to know the answers to. 
