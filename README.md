@@ -16,7 +16,7 @@ Below you'll find some of my favourite projects highlighted with documentation h
 Data visualisation, design and data prep challenges using data from games.
 
 <a href='https://github.com/wjsutton/games_night_viz'>
-  <img src='https://github.com/wjsutton/games_night_viz/blob/main/icons/banner_icon.png?raw=true' width='60%' >
+  <img src='https://github.com/wjsutton/games_night_viz/blob/main/challenges/icons/banner_icon.png?raw=true' width='60%' >
 </a>
 <br><br>
 
