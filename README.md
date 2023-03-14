@@ -22,6 +22,9 @@ Data visualisation, design and data prep challenges using data from games.
 
 ## ⭐ Data Viz Projects
 
+<a href='https://github.com/wjsutton/why_does_my_dog'>
+  <img src = "cards/dog_card.png" width="30%">
+</a>
 <a href='https://github.com/wjsutton/driving_test_pass_rates'>
   <img src = "cards/driving_card.png" width="30%">
 </a>
