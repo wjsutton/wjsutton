@@ -21,11 +21,11 @@ I bring data to life with:
     <img src="https://public.tableau.com/thumb/views/DiversityScorecardRWFD/RWFDINC-DiversityScorecard" width ="25%">
   </a>
 
-  <a href="https://public.tableau.com/app/profile/wjsutton/viz/WhyDoesMyDog___IronQuest/DesktopVersion">
+  <a href="https://github.com/wjsutton/why_does_my_dog">
     <img src="https://public.tableau.com/thumb/views/WhyDoesMyDog___IronQuest/DesktopVersion" width ="24%">
   </a>
 
-  <a href="https://public.tableau.com/app/profile/wjsutton/viz/WheretoPasstheGreatBritishDrivingTest/DrivingTests">
+  <a href="https://github.com/wjsutton/driving_test_pass_rates">
     <img src="https://public.tableau.com/thumb/views/WheretoPasstheGreatBritishDrivingTest/DrivingTests" width ="24%">
   </a>
 
@@ -57,7 +57,7 @@ I bring data to life with:
     <img src="https://public.tableau.com/thumb/views/FBIsMostWanted_16332949514690/MostWanted" width ="24%">
   </a>
 
-  <a href="https://public.tableau.com/app/profile/wjsutton/viz/TheToughestTour/TourdeFrance">
+  <a href="https://github.com/wjsutton/Tour-De-France">
     <img src="https://public.tableau.com/thumb/views/TheToughestTour/TourdeFrance" width ="24%">
   </a>
 
