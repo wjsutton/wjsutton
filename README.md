@@ -97,7 +97,11 @@ Over the last few years I've been very keen to not just understand what AI can d
 
 ## Practical Tutorials
 
-I design and deliver training that’s applicable and built for working analysts:
+<a href="https://youtu.be/2fCPTlYiX4s?si=BuJepatE-gcGzp_r">
+  <img src="https://github.com/wjsutton/sql_murder_mystery/blob/main/youtube_thumb.png?raw=true" align="left" width="40%">
+</a>
+
+I design and deliver training that’s applicable and built for working analysts. Lately these have been more for the emerging data engineering skills gap and opportunites within The Information Lab.  
 
 - Run internal training for data engineering consultants at The Information Lab  
 - Host public in‑person dbt training days at The Information Lab 
@@ -106,9 +110,6 @@ I design and deliver training that’s applicable and built for working analysts
   - [The Summer of SQL](https://github.com/wjsutton/the_summer_of_sql)
   - [Python Charmers](https://github.com/wjsutton/python_charmers) 
 
-<a href="https://youtu.be/2fCPTlYiX4s?si=BuJepatE-gcGzp_r">
-  <img src="https://github.com/wjsutton/sql_murder_mystery/blob/main/youtube_thumb.png?raw=true" align="left" width="40%">
-</a>
 
 ### Certifications
 
