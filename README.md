@@ -4,18 +4,33 @@
 
 <img align="right" src="https://github.com/wjsutton/wjsutton.github.io/blob/master/assets/img/hero-no-background.png?raw=true" alt="Will Sutton" width="20%">
 
-A Data Analytics & Visualisation Expert 📈
+<h3>
+  <b>An Expert In Analytics 📈</b><br>
+  <i>That Makes Data Work for You</i>
+</h3>
+I develop solutions that are:
 
-I bring data to life with:
-- Tableau
-- SQL
-- Python
+- **Engaging Visualisations** of raw data that deliver insight and prompt decision-making, with Tableau  
+- **Engineered Data Applications** that actually meet users’ needs, with SQL, Python & AI  
+- **Practical Tutorials** to upskill teams through in-person training, YouTube & blogs
 
-<br>
-<br>
-<br>
 
-## ⭐ Data Viz Projects
+## ⭐ A World Champion in Data Visualisation
+
+<a href="https://youtu.be/cIwCJ2V-KX8?si=G2XwUdSpWcwtk3gE">
+  <img src="https://github.com/wjsutton/wjsutton.github.io/blob/master/assets/img/WillSutton_IV2022.jpg?raw=true" width="40%" align="left">
+</a>
+
+Since 2013 I've been hooked on building data visualisations with Tableau. This passion has enabled several wins across my career:
+- I saved the BBC over £400k with 1 chart detailing the outcome of planned project
+- Showed the value of Data Science attribution models to WorldRemit stakeholders
+- Upskill and enable new and exisitng users with The Information Lab 
+
+In 2022 travelled to Las Vegas to compete in the largest data visualization contest globally, Tableau's Iron Viz competition. The final round required presenting a 20-minute Tableau dashboard before a live audience of 5,000 and a global streaming audience.
+
+Currently I am a [Tableau Visionary](https://www.tableau.com/community/community-leaders/visionaries), [Tableau Ambassador](https://www.tableau.com/community/community-leaders/ambassadors), Co-host of the [GamesNightViz Community Project](https://gamesnightviz.webflow.io/), Leader for the [AI + Tableau User Group](https://usergroups.tableau.com/ai-tableau-user-group/), and [2022's Iron Viz Champion](https://www.tableau.com/blog/iron-viz-2022-championship).
+
+Below are a range of projects highlighted from my [Tableau Public Profile](https://public.tableau.com/app/profile/wjsutton/vizzes#!/)
 
 <a href="https://public.tableau.com/app/profile/wjsutton/viz/DiversityScorecardRWFD/RWFDINC-DiversityScorecard">
     <img src="https://public.tableau.com/thumb/views/DiversityScorecardRWFD/RWFDINC-DiversityScorecard" width ="25%">
@@ -33,8 +48,8 @@ I bring data to life with:
     <img src="https://public.tableau.com/thumb/views/ClosingtheYouthLiteracyGapIronViz2022/Dashboard1" width ="25%">
   </a>
 
-  <a href="https://public.tableau.com/app/profile/wjsutton/viz/WheelchairMarathonWorldChampionsDiversityinData/WheelchairMarathonWorldChampionsDiversityinData">
-    <img src="https://public.tableau.com/thumb/views/WheelchairMarathonWorldChampionsDiversityinData/WheelchairMarathonWorldChampionsDiversityinData" width ="25%">
+  <a href="https://public.tableau.com/app/profile/wjsutton/viz/olympic_ages/TheAgeofOlympians">
+    <img src="https://public.tableau.com/thumb/views/olympic_ages/TheAgeofOlympians" width ="25%">
   </a>
 
   <a href="https://public.tableau.com/app/profile/wjsutton/viz/FinancialComplaintsRWFD/Overview">
@@ -66,91 +81,59 @@ I bring data to life with:
   </a>
 
 
+## Engineered Data Applications
+
+<a href="https://www.youtube.com/watch?v=2sPJfxeoJ90">
+  <img src="https://img.youtube.com/vi/2sPJfxeoJ90/maxresdefault.jpg" align="right" width ="40%">
+</a>
+
+Over the last few years I've been very keen to not just understand what AI can do but build some actually useful applications of it. Whilst AI has opened up a lot of new opportunities and quick ways to get started, there's still immense value in a well engineered data pipeline to deliver on stakeholder requirements.  
+
+- **Chat with your data** on Tableau Server using the [Tableau LangChain Starter Kit](https://github.com/TheInformationLab/tableau_langchain_starter_kit)  
+- **Ace Tableau’s Data Analyst exam** with my custom OpenAI GPT: [Tableau Certified DA GPT](https://github.com/wjsutton/tableau_certified_da_gpt)  
+- **Master dbt transformations** in my “flawless victory” project: [Pokemon Yellow Legacy](https://github.com/wjsutton/pkmn_yellow_legacy_dbt)  
 
 
-## SQL Challenge Tutorials
+
+## Practical Tutorials
+
+I design and deliver training that’s applicable and built for working analysts:
+
+- Run internal training for data engineering consultants at The Information Lab  
+- Host public in‑person dbt training days at The Information Lab 
+- Share walkthroughs to data challenges on GitHub and YouTube:
+  - [Spill the dbt](https://github.com/wjsutton/spill_the_dbt) 
+  - [The Summer of SQL](https://github.com/wjsutton/the_summer_of_sql)
+  - [Python Charmers](https://github.com/wjsutton/python_charmers) 
 
 <a href="https://youtu.be/2fCPTlYiX4s?si=BuJepatE-gcGzp_r">
-  <img src="https://github.com/wjsutton/sql_murder_mystery/blob/main/youtube_thumb.png?raw=true" align="right" width="40%">
+  <img src="https://github.com/wjsutton/sql_murder_mystery/blob/main/youtube_thumb.png?raw=true" align="left" width="40%">
 </a>
-
-Over on YouTube, I've created several SQL challenge walkthroughs to help newcomers learn when and why to use different techniques.
-
-Here you'll find how to:
-- Solve a murder with SQL [📺 Watch](https://youtu.be/w8DSLB8Wa2o?si=WFAaPhYANqhQckcj)
-- Support a pizza business [📺 Watch](https://www.youtube.com/watch?v=AZEWpXmgiHs&list=PLXDaaNmzYOAKY6hIOoL3RG4duErSAumvw&index=2)
-- Prep data for bank reporting [📺 Watch](https://youtu.be/h1hknSmMRbY?si=ASUL6_Yr_cpY_pEK)
-
-And many more!
-
-## Community Enablement
-
-<a href="https://gamesnightviz.webflow.io/">
-    <img src="https://github.com/wjsutton/wjsutton.github.io/blob/master/assets/img/GNV_Logo_Season2_4.png?raw=true" width="40%" align="left">
-</a>
-                
-In 2021 I teamed up with two members of the Tableau community to launch a project combining data visualization and games, #GamesNightViz. 
-
-A quick way to grow your skills is to work on a topic you enjoy, and games provide plenty of opportunities for fun, intrigue, and great visualizations. 
-
-Here you'll find data about:
-
-- The population of Skyrim <a href="https://github.com/wjsutton/games_night_viz/blob/main/challenges/data_archive.md#skyrim">🔗 Data</a>
-- All the songs from Just Dance <a href="https://github.com/wjsutton/games_night_viz/blob/main/challenges/data_archive.md#just-dance">🔗 Data</a>
-- And a ton of Mario games <a href="https://github.com/wjsutton/games_night_viz/blob/main/challenges/data_archive.md#mario-games">🔗 Data</a>
-
-
-
-## About Me
-
-I have been working for over a decade in data analytics, I enjoy solving problems with data, be that automating processes with SQL, R & Python or visualising data with Tableau.
-
-During my career, I have:
-
-- Enabled companies from sectors such as finance, media and research to extract value from their data.
-- Won the title in the world’s biggest data visualization contest, Tableau’s Iron Viz, in 2022.
-- Trained analysts to solve problems and craft their own data stories.
-  
-Away from the desk, I am a regular speaker at user group events and conferences, I stay up to date on the latest in the data analytics space, regularly sharing my thoughts on emerging tools and techniques.
-
-I’m always open to connecting with fellow data enthusiasts, discussing challenges and exploring collaborative opportunities.
-           
-<img src="https://github.com/wjsutton/wjsutton.github.io/blob/master/assets/img/work_timeline.png?raw=true">
-
-## Awards & Certifications
-
-<a href="https://www.tableau.com/en-gb/blog/iron-viz-2022-championship">
-  <img src="https://github.com/wjsutton/wjsutton.github.io/blob/master/assets/img/WillSutton_IV2022.jpg?raw=true" width="40%" align="right">
-</a>
-
-### Iron Viz Champion 2022
-
-I travelled to Las Vegas to compete in the largest data visualization contest globally, Tableau's Iron Viz competition. The final round required presenting a 20-minute Tableau dashboard before a live audience of 5,000 and a global streaming audience.
-
-This year's theme focused on visualizing the impact of education worldwide. Leveraging animations, parameters, and map background images, I crafted a presentation-style visualization to effectively communicate my analysis.
-            
-<a href="https://youtu.be/cIwCJ2V-KX8?si=G2XwUdSpWcwtk3gE">📺 Watch the final on YouTube</a>
 
 ### Certifications
 
 <a href="https://www.credly.com/badges/e9770f0c-83bc-45bb-a859-2a9589bc96df/public_url">
-  <img src="https://github.com/wjsutton/wjsutton.github.io/blob/master/assets/img/credly/2024-tableau-visionary.png?raw=true" width="20%">
+  <img src="https://github.com/wjsutton/wjsutton.github.io/blob/master/assets/img/credly/2024-tableau-visionary.png?raw=true" width="15%">
 </a>
 
 <a href="https://www.credly.com/badges/3512eb42-d819-4e6d-b0ed-93fec81d1e91/public_url">
-  <img src="https://github.com/wjsutton/wjsutton.github.io/blob/master/assets/img/credly/tableau-ambassador.png?raw=true" width="19%">
+  <img src="https://github.com/wjsutton/wjsutton.github.io/blob/master/assets/img/credly/tableau-ambassador.png?raw=true" width="15%">
 </a>
 
 <a href="https://www.credly.com/badges/f481f7d5-a216-4ffc-aa1b-74b7fe388fab">
-  <img src="https://github.com/wjsutton/wjsutton.github.io/blob/master/assets/img/credly/tableau-certified-professional.png?raw=true" width="19%">
+  <img src="https://github.com/wjsutton/wjsutton.github.io/blob/master/assets/img/credly/tableau-certified-professional.png?raw=true" width="15%">
 </a>
 
 <a href="https://www.credly.com/badges/357d7051-7b8e-4e3a-a0e4-24e6e554b02b">
-  <img src="https://github.com/wjsutton/wjsutton.github.io/blob/master/assets/img/credly/power-bi-data-analyst.png?raw=true" width="19%">
+  <img src="https://github.com/wjsutton/wjsutton.github.io/blob/master/assets/img/credly/power-bi-data-analyst.png?raw=true" width="15%">
 </a>
 
 <a href="https://www.credly.com/badges/eaebd799-b3cf-460b-b844-da4bc9fe35ab/public_url">
-  <img src="https://github.com/wjsutton/wjsutton.github.io/blob/master/assets/img/credly/alteryx-designer-advanced-certification.png?raw=true" width="20%">
+  <img src="https://github.com/wjsutton/wjsutton.github.io/blob/master/assets/img/credly/alteryx-designer-advanced-certification.png?raw=true" width="15%">
+</a>
+
+<a>
+  <img src="https://www.getdbt.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fwl0ndo6t%2Fmain%2Fa7e8006b3cc47756364a505f7476973cd1695df6-2160x2160.png%3Ffit%3Dmax%26auto%3Dformat&w=3840&q=75" width="15%">
 </a>
 
 
