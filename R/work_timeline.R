@@ -88,7 +88,7 @@ career_chart <- ganttrify(
   show_vertical_lines = FALSE,  # This removes vertical gridlines
   x_axis_position = "bottom",
   colour_palette = c("#6ACCEA", "#00FFB8"),
-  size_text_relative = 1.2, 
+  size_text_relative = 1.5, 
   alpha_wp = 0,              
   alpha_activity = 1,
   colour_stripe = "white"
@@ -126,11 +126,11 @@ label_data$y_position <- nrow(label_data):1
 
 # Add enhancements with stronger theme overrides
 enhanced_plot <- base_plot +
-  ggplot2::labs(
-    title = paste0("Career Timeline, Sep 2007 - ",format(Sys.Date(), "%b %Y")),
-    subtitle = paste0(years_in_analytics," Years in Data & Analytics"),
-    caption = "Sectors: 7 Years in Finance, 4.5 Years in Media & Broadcast, 3 Years in Consulting | Full details available on LinkedIn"
-  ) +
+#  ggplot2::labs(
+#   title = paste0("Career Timeline, Sep 2007 - ",format(Sys.Date(), "%b %Y")),
+#    subtitle = paste0(years_in_analytics," Years in Data & Analytics"),
+#    caption = "Sectors: 7 Years in Finance, 4.5 Years in Media & Broadcast, 3 Years in Consulting | Full details available on LinkedIn"
+#  ) +
   # More aggressive theme overrides
   ggplot2::theme(
     # Remove ALL possible grid elements
@@ -152,7 +152,7 @@ enhanced_plot <- base_plot +
     axis.text.y = element_text(color = "black"),
     # Keep plot elements
     plot.background = element_rect(fill = "white", color = NA),
-    plot.margin = margin(20, 20, 20, 20, "pt"),
+    plot.margin = margin(10, 20, 10, 20, "pt"),
     # Keep text elements
     plot.title = element_text(size = 20, hjust = -0.5),
     plot.subtitle = element_text(size = 14, hjust = -0.37),
@@ -166,7 +166,7 @@ final_plot <- enhanced_plot +
     aes(x = label_x, y = y_position, label = custom_label),
     hjust = 0,     # Left-align text
     vjust = 0.5,   # Center vertically
-    size = 4,      # Text size
+    size = 5,      # Text size
     color = "black",
     inherit.aes = FALSE  # Don't inherit aesthetics from base plot
   )
@@ -192,7 +192,7 @@ final_plot <- final_plot +
     aes(x = x + 250, y = y, label = label),
     hjust = 0,
     vjust = 0.5,
-    size = 3.5,
+    size = 5,
     inherit.aes = FALSE
   ) +
   # Add legend title
@@ -203,7 +203,7 @@ final_plot <- final_plot +
     label = "Activity Type",
     hjust = 0,
     vjust = 0.5,
-    size = 4
+    size = 5
   ) +
   ggplot2::scale_fill_identity() # Use colors as-is
 

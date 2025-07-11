@@ -10,9 +10,9 @@
 </h3>
 I develop solutions that are:
 
-- **Engaging Visualisations** of raw data that deliver insight and prompt decision-making, with Tableau  
+- **Engaging Visualisations** of raw data that deliver insight and prompt decision-making, using Tableau  
 - **Engineered Data Applications** that actually meet users’ needs, with SQL, Python & AI  
-- **Practical Tutorials** to upskill teams through in-person training, YouTube & blogs
+- **Practical Training & Tutorials** to upskill teams through in-person sessions, YouTube and blogs
 
 
 ## ⭐ A World Champion in Data Visualisation
@@ -21,16 +21,16 @@ I develop solutions that are:
   <img src="https://github.com/wjsutton/wjsutton.github.io/blob/master/assets/img/WillSutton_IV2022.jpg?raw=true" width="40%" align="left">
 </a>
 
-Since 2013 I've been hooked on building data visualisations with Tableau. This passion has enabled several wins across my career:
-- I saved the BBC over £400k with 1 chart detailing the outcome of planned project
-- Showed the value of Data Science attribution models to WorldRemit stakeholders
-- Upskill and enable new and exisitng users with The Information Lab 
+Since 2013, I've been hooked on building data visualisations with Tableau.  This passion has led to several career highlights:
+- Saved the BBC over £400k with one chart detailing the outcome of a planned project
+- Demonstrated the value of Data Science attribution models to WorldRemit stakeholders
+- Upskilled and enabled new and existing users at The Information Lab
 
-In 2022 travelled to Las Vegas to compete in the largest data visualization contest globally, Tableau's Iron Viz competition. The final round required presenting a 20-minute Tableau dashboard before a live audience of 5,000 and a global streaming audience.
+In 2022, I travelled to Las Vegas to compete in the largest data visualization contest globally, Tableau's Iron Viz competition. The final round involved presenting a 20-minute Tableau dashboard before a live audience of 5,000 and a global streaming audience.
 
-Currently I am a [Tableau Visionary](https://www.tableau.com/community/community-leaders/visionaries), [Tableau Ambassador](https://www.tableau.com/community/community-leaders/ambassadors), Co-host of the [GamesNightViz Community Project](https://gamesnightviz.webflow.io/), Leader for the [AI + Tableau User Group](https://usergroups.tableau.com/ai-tableau-user-group/), and [2022's Iron Viz Champion](https://www.tableau.com/blog/iron-viz-2022-championship).
+Currently I am a [Tableau Visionary](https://www.tableau.com/community/community-leaders/visionaries), [Tableau Ambassador](https://www.tableau.com/community/community-leaders/ambassadors), Co-host of the [GamesNightViz Community Project](https://gamesnightviz.webflow.io/), Leader of the [AI + Tableau User Group](https://usergroups.tableau.com/ai-tableau-user-group/), and [2022 Iron Viz Champion](https://www.tableau.com/blog/iron-viz-2022-championship).
 
-Below are a range of projects highlighted from my [Tableau Public Profile](https://public.tableau.com/app/profile/wjsutton/vizzes#!/)
+Below are some highlighted projects from my [Tableau Public Profile](https://public.tableau.com/app/profile/wjsutton/vizzes#!/)
 
 <a href="https://public.tableau.com/app/profile/wjsutton/viz/DiversityScorecardRWFD/RWFDINC-DiversityScorecard">
     <img src="https://public.tableau.com/thumb/views/DiversityScorecardRWFD/RWFDINC-DiversityScorecard" width ="25%">
@@ -87,7 +87,7 @@ Below are a range of projects highlighted from my [Tableau Public Profile](https
   <img src="https://img.youtube.com/vi/2sPJfxeoJ90/maxresdefault.jpg" align="right" width ="40%">
 </a>
 
-Over the last few years I've been very keen to not just understand what AI can do but build some actually useful applications of it. Whilst AI has opened up a lot of new opportunities and quick ways to get started, there's still immense value in a well engineered data pipeline to deliver on stakeholder requirements.  
+Over the last few years, I’ve been keen not only to understand what AI can do but also to build genuinely useful applications. While AI has opened many new opportunities and quick ways to get started, there is still immense value in a well-engineered data pipeline that delivers on stakeholder requirements.
 
 - **Chat with your data** on Tableau Server using the [Tableau LangChain Starter Kit](https://github.com/TheInformationLab/tableau_langchain_starter_kit)  
 - **Ace Tableau’s Data Analyst exam** with my custom OpenAI GPT: [Tableau Certified DA GPT](https://github.com/wjsutton/tableau_certified_da_gpt)  
@@ -95,52 +95,62 @@ Over the last few years I've been very keen to not just understand what AI can d
 
 
 
-## Practical Tutorials
+## Practical Training and Tutorials
 
 <a href="https://youtu.be/2fCPTlYiX4s?si=BuJepatE-gcGzp_r">
   <img src="https://github.com/wjsutton/sql_murder_mystery/blob/main/youtube_thumb.png?raw=true" align="left" width="40%">
 </a>
 
-I design and deliver training that’s applicable and built for working analysts. Lately these have been more for the emerging data engineering skills gap and opportunites within The Information Lab.  
+I design and deliver training that’s practical and built for working analysts. Recently, these have focused on addressing the emerging data engineering skills gap and opportunities within The Information Lab.
 
-- Run internal training for data engineering consultants at The Information Lab  
-- Host public in‑person dbt training days at The Information Lab 
-- Share walkthroughs to data challenges on GitHub and YouTube:
+- Run internal training for data engineering consultants at The Information Lab
+- Host public in-person dbt training days at The Information Lab
+- Share walkthroughs of data challenges on GitHub and YouTube
   - [Spill the dbt](https://github.com/wjsutton/spill_the_dbt) 
   - [The Summer of SQL](https://github.com/wjsutton/the_summer_of_sql)
   - [Python Charmers](https://github.com/wjsutton/python_charmers) 
 
+## Career Timeline, Sep 2007 - Jul 2025
+
+12 Years in Data & Analytics
+
+<a href="https://www.linkedin.com/in/will-sutton-14711627/">
+  <img src="https://github.com/wjsutton/wjsutton/blob/h2-2025-update/work_timeline.png?raw=true">
+</a>
+
+Sectors: 7 Years in Finance, 4.5 Years in Media & Broadcast, 3 Years in Consulting | Full details available on [LinkedIn](https://www.linkedin.com/in/will-sutton-14711627/)
 
 ### Certifications
 
 <a href="https://www.credly.com/badges/e9770f0c-83bc-45bb-a859-2a9589bc96df/public_url">
-  <img src="https://github.com/wjsutton/wjsutton.github.io/blob/master/assets/img/credly/2024-tableau-visionary.png?raw=true" width="12%">
+  <img src="https://github.com/wjsutton/wjsutton.github.io/blob/master/assets/img/credly/2024-tableau-visionary.png?raw=true" width="19%">
 </a>
 
 <a href="https://www.credly.com/badges/3512eb42-d819-4e6d-b0ed-93fec81d1e91/public_url">
-  <img src="https://github.com/wjsutton/wjsutton.github.io/blob/master/assets/img/credly/tableau-ambassador.png?raw=true" width="12%">
+  <img src="https://github.com/wjsutton/wjsutton.github.io/blob/master/assets/img/credly/tableau-ambassador.png?raw=true" width="19%">
 </a>
 
 <a href="https://www.credly.com/badges/f481f7d5-a216-4ffc-aa1b-74b7fe388fab">
-  <img src="https://github.com/wjsutton/wjsutton.github.io/blob/master/assets/img/credly/tableau-certified-professional.png?raw=true" width="12%">
+  <img src="https://github.com/wjsutton/wjsutton.github.io/blob/master/assets/img/credly/tableau-certified-professional.png?raw=true" width="19%">
 </a>
 
 <a href="https://www.credly.com/badges/357d7051-7b8e-4e3a-a0e4-24e6e554b02b">
-  <img src="https://github.com/wjsutton/wjsutton.github.io/blob/master/assets/img/credly/power-bi-data-analyst.png?raw=true" width="12%">
+  <img src="https://github.com/wjsutton/wjsutton.github.io/blob/master/assets/img/credly/power-bi-data-analyst.png?raw=true" width="19%">
 </a>
 
 <a href="https://www.credly.com/badges/eaebd799-b3cf-460b-b844-da4bc9fe35ab/public_url">
-  <img src="https://github.com/wjsutton/wjsutton.github.io/blob/master/assets/img/credly/alteryx-designer-advanced-certification.png?raw=true" width="12%">
+  <img src="https://github.com/wjsutton/wjsutton.github.io/blob/master/assets/img/credly/alteryx-designer-advanced-certification.png?raw=true" width="19%">
 </a>
 
 <a>
-  <img src="https://www.getdbt.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fwl0ndo6t%2Fmain%2Fa7e8006b3cc47756364a505f7476973cd1695df6-2160x2160.png%3Ffit%3Dmax%26auto%3Dformat&w=3840&q=75" width="12%">
+  <img src="https://www.getdbt.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fwl0ndo6t%2Fmain%2Fa7e8006b3cc47756364a505f7476973cd1695df6-2160x2160.png%3Ffit%3Dmax%26auto%3Dformat&w=3840&q=75" width="19%">
 </a>
 
+## Do You Want My Help?
 
-## 📫 Contact
+I'm available for data analytics consultanting projects via [The Information Lab](https://www.theinformationlab.co.uk/). You can speak to your Account Manager or contact the team directly through the [website](https://www.theinformationlab.co.uk/).  
 
-You can find me on the following social media sites
+Otherwise, stay up to date with my latest projects on the following social media sites:
 
 - [LinkedIn](https://www.linkedin.com/in/will-sutton-14711627/)
 - [X FKA Twitter](https://twitter.com/WJSutton12)
