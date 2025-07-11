@@ -2,7 +2,7 @@ name: Update Career Timeline Plot
 
 on:
   push:
-    branches: h2-2025-update
+    branches: na-h2-2025-update
 
 jobs:
   update-career-plot:
