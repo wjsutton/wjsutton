@@ -14,6 +14,8 @@ I develop solutions that are:
 - **Engineered Data Applications** that actually meet users’ needs, with SQL, Python & AI  
 - **Practical Training & Tutorials** to upskill teams through in-person sessions, YouTube and blogs
 
+<br>
+<br>
 
 ## ⭐ A World Champion in Data Visualisation
 
@@ -93,7 +95,8 @@ Over the last few years, I’ve been keen not only to understand what AI can do 
 - **Ace Tableau’s Data Analyst exam** with my custom OpenAI GPT: [Tableau Certified DA GPT](https://github.com/wjsutton/tableau_certified_da_gpt)  
 - **Master dbt transformations** in my “flawless victory” project: [Pokemon Yellow Legacy](https://github.com/wjsutton/pkmn_yellow_legacy_dbt)  
 
-
+<br>
+<br>
 
 ## Practical Training and Tutorials
 
@@ -109,6 +112,9 @@ I design and deliver training that’s practical and built for working analysts.
   - [Spill the dbt](https://github.com/wjsutton/spill_the_dbt) 
   - [The Summer of SQL](https://github.com/wjsutton/the_summer_of_sql)
   - [Python Charmers](https://github.com/wjsutton/python_charmers) 
+
+<br>
+<br>
 
 ## Career Timeline, Sep 2007 - Jul 2025
 
@@ -144,6 +150,14 @@ Sectors: 7 Years in Finance, 4.5 Years in Media & Broadcast, 3 Years in Consulti
 
 <a>
   <img src="https://www.getdbt.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fwl0ndo6t%2Fmain%2Fa7e8006b3cc47756364a505f7476973cd1695df6-2160x2160.png%3Ffit%3Dmax%26auto%3Dformat&w=3840&q=75" width="19%">
+</a>
+
+<a href="https://www.salesforce.com/trailblazer/willsutton0202">
+  <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/datacloudconsultant.png" width="19%">
+</a>
+
+<a href="https://www.salesforce.com/trailblazer/willsutton0202">
+  <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/ai-associate.png?v=2" width="19%">
 </a>
 
 ## Do You Want My Help?
