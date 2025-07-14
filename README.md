@@ -141,16 +141,16 @@ Sectors: 7 Years in Finance, 4.5 Years in Media & Broadcast, 3 Years in Consulti
   <img src="https://github.com/wjsutton/wjsutton.github.io/blob/master/assets/img/credly/alteryx-designer-advanced-certification.png?raw=true" width="19%">
 </a>
 
+<a href="https://www.salesforce.com/trailblazer/willsutton0202">
+  <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/datacloudconsultant.png" width="19%">
+</a>
+
+<a href="https://www.salesforce.com/trailblazer/willsutton0202">
+  <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/ai-associate.png?v=2" width="19%">
+</a>
+
 <a>
   <img src="https://www.getdbt.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fwl0ndo6t%2Fmain%2Fa7e8006b3cc47756364a505f7476973cd1695df6-2160x2160.png%3Ffit%3Dmax%26auto%3Dformat&w=3840&q=75" width="19%">
-</a>
-
-<a href="https://www.salesforce.com/trailblazer/willsutton0202">
-  <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/datacloudconsultant.png" width="17%">
-</a>
-
-<a href="https://www.salesforce.com/trailblazer/willsutton0202">
-  <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/ai-associate.png?v=2" width="17%">
 </a>
 
 ## Do You Want My Help?
