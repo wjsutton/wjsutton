@@ -18,7 +18,7 @@ I develop solutions that are:
 ## ⭐ A World Champion in Data Visualisation
 
 <a href="https://youtu.be/cIwCJ2V-KX8?si=G2XwUdSpWcwtk3gE">
-  <img src="https://github.com/wjsutton/wjsutton.github.io/blob/master/assets/img/WillSutton_IV2022.jpg?raw=true" width="40%" align="left">
+  <img src="https://github.com/wjsutton/wjsutton.github.io/blob/master/assets/img/WillSutton_IV2022.jpg?raw=true" width="40%" align="left" style="padding: 10px;">
 </a>
 
 Since 2013, I've been hooked on building data visualisations with Tableau.  This passion has led to several career highlights:
@@ -32,59 +32,51 @@ Currently I am a [Tableau Visionary](https://www.tableau.com/community/community
 
 Below are some highlighted projects from my [Tableau Public Profile](https://public.tableau.com/app/profile/wjsutton/vizzes#!/)
 
+<div align="center">
 <a href="https://public.tableau.com/app/profile/wjsutton/viz/DiversityScorecardRWFD/RWFDINC-DiversityScorecard">
-    <img src="https://public.tableau.com/thumb/views/DiversityScorecardRWFD/RWFDINC-DiversityScorecard" width ="25%">
+    <img src="https://public.tableau.com/thumb/views/DiversityScorecardRWFD/RWFDINC-DiversityScorecard" width ="24%">
   </a>
-
   <a href="https://github.com/wjsutton/why_does_my_dog">
     <img src="https://public.tableau.com/thumb/views/WhyDoesMyDog___IronQuest/DesktopVersion" width ="24%">
   </a>
-
   <a href="https://github.com/wjsutton/driving_test_pass_rates">
     <img src="https://public.tableau.com/thumb/views/WheretoPasstheGreatBritishDrivingTest/DrivingTests" width ="24%">
   </a>
-
   <a href="https://public.tableau.com/app/profile/wjsutton/viz/ClosingtheYouthLiteracyGapIronViz2022/Dashboard1">
-    <img src="https://public.tableau.com/thumb/views/ClosingtheYouthLiteracyGapIronViz2022/Dashboard1" width ="25%">
+    <img src="https://public.tableau.com/thumb/views/ClosingtheYouthLiteracyGapIronViz2022/Dashboard1" width ="24%">
   </a>
 
   <a href="https://public.tableau.com/app/profile/wjsutton/viz/olympic_ages/TheAgeofOlympians">
-    <img src="https://public.tableau.com/thumb/views/olympic_ages/TheAgeofOlympians" width ="25%">
+    <img src="https://public.tableau.com/thumb/views/olympic_ages/TheAgeofOlympians" width ="24%">
   </a>
-
   <a href="https://public.tableau.com/app/profile/wjsutton/viz/FinancialComplaintsRWFD/Overview">
     <img src="https://public.tableau.com/thumb/views/FinancialComplaintsRWFD/Overview" width ="24%">
   </a>
-
   <a href="https://public.tableau.com/app/profile/wjsutton/viz/InterpretingArtIronViz2022Drawful2/Dash">
     <img src="https://public.tableau.com/thumb/views/InterpretingArtIronViz2022Drawful2/Dash" width ="24%">
   </a>
-
   <a href="https://public.tableau.com/app/profile/wjsutton/viz/Survivorsofthe1904OlympicMarathon/Survivorsofthe1904OlympicMarathon">
-    <img src="https://public.tableau.com/thumb/views/Survivorsofthe1904OlympicMarathon/Survivorsofthe1904OlympicMarathon" width ="25%">
+    <img src="https://public.tableau.com/thumb/views/Survivorsofthe1904OlympicMarathon/Survivorsofthe1904OlympicMarathon" width ="24%">
   </a>
 
   <a href="https://public.tableau.com/app/profile/wjsutton/viz/PokemonColourPalettes/PokePalettes">
-    <img src="https://public.tableau.com/thumb/views/PokemonColourPalettes/PokePalettes" width ="25%">
+    <img src="https://public.tableau.com/thumb/views/PokemonColourPalettes/PokePalettes" width ="24%">
   </a>
-
   <a href="https://public.tableau.com/app/profile/wjsutton/viz/FBIsMostWanted_16332949514690/MostWanted">
     <img src="https://public.tableau.com/thumb/views/FBIsMostWanted_16332949514690/MostWanted" width ="24%">
   </a>
-
   <a href="https://github.com/wjsutton/Tour-De-France">
     <img src="https://public.tableau.com/thumb/views/TheToughestTour/TourdeFrance" width ="24%">
   </a>
-
   <a href="https://public.tableau.com/app/profile/wjsutton/viz/HowYourPersonalityAffectsYourIncome/PersonalityandIncome">
-    <img src="https://public.tableau.com/thumb/views/HowYourPersonalityAffectsYourIncome/PersonalityandIncome" width ="25%">
+    <img src="https://public.tableau.com/thumb/views/HowYourPersonalityAffectsYourIncome/PersonalityandIncome" width ="24%">
   </a>
-
+</div>
 
 ## Engineered Data Applications
 
 <a href="https://www.youtube.com/watch?v=2sPJfxeoJ90">
-  <img src="https://img.youtube.com/vi/2sPJfxeoJ90/maxresdefault.jpg" align="right" width ="40%">
+  <img src="https://img.youtube.com/vi/2sPJfxeoJ90/maxresdefault.jpg" align="right" width="40%" style="padding: 10px;">
 </a>
 
 Over the last few years, I’ve been keen not only to understand what AI can do but also to build genuinely useful applications. While AI has opened many new opportunities and quick ways to get started, there is still immense value in a well-engineered data pipeline that delivers on stakeholder requirements.
@@ -97,17 +89,17 @@ Over the last few years, I’ve been keen not only to understand what AI can do 
 ## Practical Training and Tutorials
 
 <a href="https://youtu.be/2fCPTlYiX4s?si=BuJepatE-gcGzp_r">
-  <img src="https://github.com/wjsutton/sql_murder_mystery/blob/main/youtube_thumb.png?raw=true" align="left" width="40%">
+  <img src="https://github.com/wjsutton/sql_murder_mystery/blob/main/youtube_thumb.png?raw=true" align="left" width="40%" style="padding: 10px;">
 </a>
 
 I design and deliver training that’s practical and built for working analysts. Recently, these have focused on addressing the emerging data engineering skills gap and opportunities within The Information Lab.
 
-- Run internal training for data engineering consultants at The Information Lab
-- Host public in-person dbt training days at The Information Lab
-- Share walkthroughs of data challenges on GitHub and YouTube
-  - [Spill the dbt](https://github.com/wjsutton/spill_the_dbt) 
-  - [The Summer of SQL](https://github.com/wjsutton/the_summer_of_sql)
-  - [Python Charmers](https://github.com/wjsutton/python_charmers) 
+I run internal training for data engineering consultants and host public in-person dbt training days. I also share walkthroughs of data challenges on GitHub and YouTube, aiming to make tooling and techniques more accessible for analysts looking to grow their skillset.
+
+Here are some of my materials that I compiled for internal and external training, often coming with video walkthroughs of not just giving an answer but explaining why and discussing various techniques to solve the problem.
+- [Spill the dbt](https://github.com/wjsutton/spill_the_dbt) 
+- [The Summer of SQL](https://github.com/wjsutton/the_summer_of_sql)
+- [Python Charmers](https://github.com/wjsutton/python_charmers) 
 
 ## Career Timeline, Sep 2007 - Jul 2025
 
@@ -121,22 +113,20 @@ Sectors: 7 Years in Finance, 4.5 Years in Media & Broadcast, 3 Years in Consulti
 
 ### Certifications
 
+<div align="center">
+
 <a href="https://www.credly.com/badges/e9770f0c-83bc-45bb-a859-2a9589bc96df/public_url">
   <img src="https://github.com/wjsutton/wjsutton.github.io/blob/master/assets/img/credly/2024-tableau-visionary.png?raw=true" width="19%">
 </a>
-
 <a href="https://www.credly.com/badges/3512eb42-d819-4e6d-b0ed-93fec81d1e91/public_url">
   <img src="https://github.com/wjsutton/wjsutton.github.io/blob/master/assets/img/credly/tableau-ambassador.png?raw=true" width="19%">
 </a>
-
 <a href="https://www.credly.com/badges/f481f7d5-a216-4ffc-aa1b-74b7fe388fab">
   <img src="https://github.com/wjsutton/wjsutton.github.io/blob/master/assets/img/credly/tableau-certified-professional.png?raw=true" width="19%">
 </a>
-
 <a href="https://www.credly.com/badges/357d7051-7b8e-4e3a-a0e4-24e6e554b02b">
   <img src="https://github.com/wjsutton/wjsutton.github.io/blob/master/assets/img/credly/power-bi-data-analyst.png?raw=true" width="19%">
 </a>
-
 <a href="https://www.credly.com/badges/eaebd799-b3cf-460b-b844-da4bc9fe35ab/public_url">
   <img src="https://github.com/wjsutton/wjsutton.github.io/blob/master/assets/img/credly/alteryx-designer-advanced-certification.png?raw=true" width="19%">
 </a>
@@ -144,14 +134,14 @@ Sectors: 7 Years in Finance, 4.5 Years in Media & Broadcast, 3 Years in Consulti
 <a href="https://www.salesforce.com/trailblazer/willsutton0202">
   <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/datacloudconsultant.png" width="19%">
 </a>
-
 <a href="https://www.salesforce.com/trailblazer/willsutton0202">
   <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/ai-associate.png?v=2" width="19%">
 </a>
-
 <a>
   <img src="https://www.getdbt.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fwl0ndo6t%2Fmain%2Fa7e8006b3cc47756364a505f7476973cd1695df6-2160x2160.png%3Ffit%3Dmax%26auto%3Dformat&w=3840&q=75" width="19%">
 </a>
+
+</div>
 
 ## Do You Want My Help?
 
