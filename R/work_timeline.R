@@ -70,9 +70,26 @@ start_date <- as.Date('2007-09-01')
 df$start_date <- as.Date(df$start_date)
 df$end_date <- as.Date(df$end_date)
 
-# Work out length of time in current job
-time_diff <- as.numeric(difftime(Sys.Date(), max(df$start_date), units = "days")) / 365.25
-rounded_years <- round(time_diff * 4) / 4
+# Work out length of time in current job (started June 2022)
+# Calculate quarters properly - only increment at quarter boundaries
+current_job_start <- as.Date("2022-06-01")
+current_date <- Sys.Date()
+
+# Calculate total months since start
+years_diff <- as.numeric(format(current_date, "%Y")) - as.numeric(format(current_job_start, "%Y"))
+months_diff <- as.numeric(format(current_date, "%m")) - as.numeric(format(current_job_start, "%m"))
+
+# Adjust if we haven't reached the anniversary month
+if (as.numeric(format(current_date, "%m")) < as.numeric(format(current_job_start, "%m")) || 
+    (as.numeric(format(current_date, "%m")) == as.numeric(format(current_job_start, "%m")) && 
+     as.numeric(format(current_date, "%d")) < as.numeric(format(current_job_start, "%d")))) {
+  years_diff <- years_diff - 1
+  months_diff <- months_diff + 12
+}
+
+total_months <- years_diff * 12 + months_diff
+quarters <- floor(total_months / 3)
+rounded_years <- quarters * 0.25
 years_in_analytics = round(rounded_years + 0.75 + 4.5 + 3.5)
 latest_job_label = paste0(rounded_years,' years')
 
