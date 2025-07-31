@@ -106,7 +106,7 @@ Here are some of my materials that I compiled for internal and external training
 12 Years in Data & Analytics
 
 <a href="https://www.linkedin.com/in/will-sutton-14711627/">
-  <img src="https://github.com/wjsutton/wjsutton/blob/h2-2025-update/cards/work_timeline.png?raw=true">
+  <img src="https://github.com/wjsutton/wjsutton/blob/master/cards/work_timeline.png?raw=true">
 </a>
 
 Sectors: 7 Years in Finance, 4.5 Years in Media & Broadcast, 3 Years in Consulting | Full details available on [LinkedIn](https://www.linkedin.com/in/will-sutton-14711627/)
