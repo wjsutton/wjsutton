@@ -26,7 +26,7 @@ Since 2013, I've been hooked on building data visualisations with Tableau.  This
 - Demonstrated the value of Data Science attribution models to WorldRemit stakeholders
 - Upskilled and enabled new and existing users at The Information Lab
 
-In 2022, I travelled to Las Vegas to compete in the largest data visualization contest globally, Tableau's Iron Viz competition. The final round involved presenting a 20-minute Tableau dashboard before a live audience of 5,000 and a global streaming audience.
+In 2022, I travelled to Las Vegas to compete in the largest data visualisation contest globally, Tableau's Iron Viz competition. The final round involved presenting a 20-minute Tableau dashboard before a live audience of 5,000 and a global streaming audience.
 
 Currently I am a [Tableau Visionary](https://www.tableau.com/community/community-leaders/visionaries), [Tableau Ambassador](https://www.tableau.com/community/community-leaders/ambassadors), Co-host of the [GamesNightViz Community Project](https://gamesnightviz.webflow.io/), Leader of the [AI + Tableau User Group](https://usergroups.tableau.com/ai-tableau-user-group/), and [2022 Iron Viz Champion](https://www.tableau.com/blog/iron-viz-2022-championship).
 
@@ -148,7 +148,7 @@ Sectors: 7 Years in Finance, 4.5 Years in Media & Broadcast, 3 Years in Consulti
 
 ## Do You Want My Help?
 
-I'm available for data analytics consultanting projects via [The Information Lab](https://www.theinformationlab.co.uk/). You can speak to your Account Manager or contact the team directly through the [website](https://www.theinformationlab.co.uk/).  
+I'm available for data analytics consulting projects via [The Information Lab](https://www.theinformationlab.co.uk/). You can speak to your Account Manager or contact the team directly through the [website](https://www.theinformationlab.co.uk/).  
 
 Otherwise, stay up to date with my latest projects on the following social media sites:
 
