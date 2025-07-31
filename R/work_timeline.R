@@ -228,4 +228,4 @@ final_plot <- final_plot +
 print(final_plot)
 
 # Optional: Save the chart with larger dimensions to accommodate labels
-ggsave("work_timeline.png", final_plot, width = 15, height = 5, dpi = 300)
+ggsave("cards/work_timeline.png", final_plot, width = 15, height = 5, dpi = 300)
