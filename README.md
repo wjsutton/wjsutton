@@ -18,7 +18,7 @@ I develop solutions that are:
 ## ⭐ A World Champion in Data Visualisation
 
 <a href="https://youtu.be/cIwCJ2V-KX8?si=G2XwUdSpWcwtk3gE">
-  <img src="https://github.com/wjsutton/wjsutton.github.io/blob/master/assets/img/WillSutton_IV2022.jpg?raw=true" width="40%" align="left" style="padding: 10px;">
+  <img src="https://github.com/wjsutton/wjsutton.github.io/blob/master/assets/img/WillSutton_IV2022.jpg?raw=true" width="45%" align="left" style="padding: 10px">
 </a>
 
 Since 2013, I've been hooked on building data visualisations with Tableau.  This passion has led to several career highlights:
@@ -145,25 +145,35 @@ Sectors: 7 Years in Finance, 4.5 Years in Media & Broadcast, 3 Years in Consulti
 
 ## Do You Want My Help?
 
-I'm available for data analytics consulting projects via [The Information Lab](https://www.theinformationlab.co.uk/). You can speak to your Account Manager or contact the team directly through the [website](https://www.theinformationlab.co.uk/).  
+<img src="cards/dbt_user_group.jpg" width="45%" align="left" style="padding: 0 10px 10px 0;">
+
+I'm available for data analytics consulting projects via [The Information Lab](https://www.theinformationlab.co.uk/). 
+
+You can speak to your Account Manager or contact the team directly through the [website](https://www.theinformationlab.co.uk/).  
+
+<br clear="left">
 
 Otherwise, stay up to date with my latest projects on the following social media sites:
 
 <div align="center">
   <a href="https://www.linkedin.com/in/will-sutton-14711627/">
-    <img src="https://github.com/CLorant/readme-social-icons/raw/main/large/filled/linkedin.svg" alt="LinkedIn" width="40" style="padding: 20px;">
+    <img src="https://github.com/CLorant/readme-social-icons/raw/main/large/filled/linkedin.svg" alt="LinkedIn" width="40">
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/WJSutton12">
-    <img src="https://github.com/CLorant/readme-social-icons/raw/main/large/filled/twitter-x.svg" alt="X" width="40" style="padding: 20px;">
+    <img src="https://github.com/CLorant/readme-social-icons/raw/main/large/filled/twitter-x.svg" alt="X" width="40">
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/data.gram/">
-    <img src="https://github.com/CLorant/readme-social-icons/raw/main/large/filled/instagram.svg" alt="Instagram" width="40" style="padding: 20px;">
+    <img src="https://github.com/CLorant/readme-social-icons/raw/main/large/filled/instagram.svg" alt="Instagram" width="40">
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.youtube.com/channel/UC3N21EOGbnVX5duBlfDCpng">
-    <img src="https://github.com/CLorant/readme-social-icons/raw/main/large/filled/youtube.svg" alt="YouTube" width="40" style="padding: 20px;">
+    <img src="https://github.com/CLorant/readme-social-icons/raw/main/large/filled/youtube.svg" alt="YouTube" width="40">
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/wjsutton">
-    <img src="https://github.com/CLorant/readme-social-icons/raw/main/large/filled/github.svg" alt="GitHub" width="40" style="padding: 20px;">
+    <img src="https://github.com/CLorant/readme-social-icons/raw/main/large/filled/github.svg" alt="GitHub" width="40">
   </a>
 </div>
 
