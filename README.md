@@ -145,7 +145,7 @@ Sectors: 7 Years in Finance, 4.5 Years in Media & Broadcast, 3 Years in Consulti
 
 ## Do You Want My Help?
 
-<img src="cards/dbt_user_group.jpg" width="65%" align="left" style="padding: 0 10px 10px 0;">
+<img src="cards/dbt_user_group.jpg" width="40%" align="left" style="padding: 0 40px 10px 0;">
 
 I'm available for data analytics consulting projects via [The Information Lab](https://www.theinformationlab.co.uk/). 
 
