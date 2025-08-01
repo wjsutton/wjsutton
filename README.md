@@ -149,11 +149,23 @@ I'm available for data analytics consulting projects via [The Information Lab](h
 
 Otherwise, stay up to date with my latest projects on the following social media sites:
 
-- [LinkedIn](https://www.linkedin.com/in/will-sutton-14711627/)
-- [X FKA Twitter](https://twitter.com/WJSutton12)
-- [Instagram](https://www.instagram.com/data.gram/)
-- [YouTube](https://www.youtube.com/channel/UC3N21EOGbnVX5duBlfDCpng)
-- [GitHub](https://github.com/wjsutton)
+<div align="center">
+  <a href="https://www.linkedin.com/in/will-sutton-14711627/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/WJSutton12">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+  </a>
+  <a href="https://www.instagram.com/data.gram/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://www.youtube.com/channel/UC3N21EOGbnVX5duBlfDCpng">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+  <a href="https://github.com/wjsutton">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</div>
 
 
 
