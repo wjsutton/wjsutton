@@ -151,19 +151,19 @@ Otherwise, stay up to date with my latest projects on the following social media
 
 <div align="center">
   <a href="https://www.linkedin.com/in/will-sutton-14711627/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/colored/linkedin.svg" alt="LinkedIn" width="40" style="margin: 0 10px;">
   </a>
   <a href="https://twitter.com/WJSutton12">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/colored/twitter-x.svg" alt="X" width="40" style="margin: 0 10px;">
   </a>
   <a href="https://www.instagram.com/data.gram/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/colored/instagram.svg" alt="Instagram" width="40" style="margin: 0 10px;">
   </a>
   <a href="https://www.youtube.com/channel/UC3N21EOGbnVX5duBlfDCpng">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/colored/youtube.svg" alt="YouTube" width="40" style="margin: 0 10px;">
   </a>
   <a href="https://github.com/wjsutton">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/colored/github.svg" alt="GitHub" width="40" style="margin: 0 10px;">
   </a>
 </div>
 
