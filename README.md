@@ -151,19 +151,19 @@ Otherwise, stay up to date with my latest projects on the following social media
 
 <div align="center">
   <a href="https://www.linkedin.com/in/will-sutton-14711627/">
-    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/colored/linkedin.svg" alt="LinkedIn" width="40" style="margin: 0 10px;">
+    <img src="https://github.com/CLorant/readme-social-icons/raw/main/large/filled/linkedin.svg" alt="LinkedIn" width="40" style="margin: 0 10px;">
   </a>
   <a href="https://twitter.com/WJSutton12">
-    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/colored/twitter-x.svg" alt="X" width="40" style="margin: 0 10px;">
+    <img src="https://github.com/CLorant/readme-social-icons/raw/main/large/filled/twitter-x.svg" alt="X" width="40" style="margin: 0 10px;">
   </a>
   <a href="https://www.instagram.com/data.gram/">
-    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/colored/instagram.svg" alt="Instagram" width="40" style="margin: 0 10px;">
+    <img src="https://github.com/CLorant/readme-social-icons/raw/main/large/filled/instagram.svg" alt="Instagram" width="40" style="margin: 0 10px;">
   </a>
   <a href="https://www.youtube.com/channel/UC3N21EOGbnVX5duBlfDCpng">
-    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/colored/youtube.svg" alt="YouTube" width="40" style="margin: 0 10px;">
+    <img src="https://github.com/CLorant/readme-social-icons/raw/main/large/filled/youtube.svg" alt="YouTube" width="40" style="margin: 0 10px;">
   </a>
   <a href="https://github.com/wjsutton">
-    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/colored/github.svg" alt="GitHub" width="40" style="margin: 0 10px;">
+    <img src="https://github.com/CLorant/readme-social-icons/raw/main/large/filled/github.svg" alt="GitHub" width="40" style="margin: 0 10px;">
   </a>
 </div>
 
