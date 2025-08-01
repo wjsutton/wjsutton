@@ -105,7 +105,7 @@ career_chart <- ganttrify(
   show_vertical_lines = FALSE,  # This removes vertical gridlines
   x_axis_position = "bottom",
   colour_palette = c("#6ACCEA", "#00FFB8"),
-  size_text_relative = 1.5, 
+  size_text_relative = 2.0, 
   alpha_wp = 0,              
   alpha_activity = 1,
   colour_stripe = "white"
@@ -150,6 +150,8 @@ enhanced_plot <- base_plot +
 #  ) +
   # More aggressive theme overrides
   ggplot2::theme(
+    # Reduce row spacing
+    panel.spacing.y = unit(-0.5, "lines"),
     # Remove ALL possible grid elements
     panel.grid = element_blank(),
     panel.grid.major = element_blank(),
@@ -169,7 +171,7 @@ enhanced_plot <- base_plot +
     axis.text.y = element_text(color = "black"),
     # Keep plot elements
     plot.background = element_rect(fill = "white", color = NA),
-    plot.margin = margin(10, 20, 10, 20, "pt"),
+    plot.margin = margin(5, 20, 5, 20, "pt"),
     # Keep text elements
     plot.title = element_text(size = 20, hjust = -0.5),
     plot.subtitle = element_text(size = 14, hjust = -0.37),
@@ -183,14 +185,14 @@ final_plot <- enhanced_plot +
     aes(x = label_x, y = y_position, label = custom_label),
     hjust = 0,     # Left-align text
     vjust = 0.5,   # Center vertically
-    size = 5,      # Text size
+    size = 6,      # Text size
     color = "black",
     inherit.aes = FALSE  # Don't inherit aesthetics from base plot
   )
 
 # Add manual legend elements
 legend_data <- data.frame(
-  x = as.Date(c("2024-01-01", "2024-01-01")),
+  x = as.Date(c("2023-06-01", "2023-06-01")),
   y = c(1.5, 1),
   label = c("Work Experience", "Education"),
   color = c("#6ACCEA", "#00FFB8")
@@ -209,18 +211,18 @@ final_plot <- final_plot +
     aes(x = x + 250, y = y, label = label),
     hjust = 0,
     vjust = 0.5,
-    size = 5,
+    size = 6,
     inherit.aes = FALSE
   ) +
   # Add legend title
   ggplot2::annotate(
     "text",
-    x = as.Date("2024-01-01"), 
+    x = as.Date("2023-06-01"), 
     y = 2, 
     label = "Activity Type",
     hjust = 0,
     vjust = 0.5,
-    size = 5
+    size = 6
   ) +
   ggplot2::scale_fill_identity() # Use colors as-is
 
