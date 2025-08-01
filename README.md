@@ -18,13 +18,13 @@ I develop solutions that are:
 ## ⭐ A World Champion in Data Visualisation
 
 <a href="https://youtu.be/cIwCJ2V-KX8?si=G2XwUdSpWcwtk3gE">
-  <img src="https://github.com/wjsutton/wjsutton.github.io/blob/master/assets/img/WillSutton_IV2022.jpg?raw=true" width="45%" align="left" style="padding: 10px">
+  <img src="https://github.com/wjsutton/wjsutton.github.io/blob/master/assets/img/WillSutton_IV2022.jpg?raw=true" width="40%" align="left" style="padding: 10px">
 </a>
 
 Since 2013, I've been hooked on building data visualisations with Tableau.  This passion has led to several career highlights:
-- Saved the BBC over £400k with one chart detailing the outcome of a planned project
-- Demonstrated the value of Data Science attribution models to WorldRemit stakeholders
-- Upskilled and enabled new and existing users at The Information Lab
+  - Saved the BBC over £400k with one chart detailing the outcome of a planned project
+  - Demonstrated the value of Data Science attribution models to WorldRemit stakeholders
+  - Upskilled and enabled new and existing users at The Information Lab
 
 In 2022, I travelled to Las Vegas to compete in the largest data visualisation contest globally, Tableau's Iron Viz competition. The final round involved presenting a 20-minute Tableau dashboard before a live audience of 5,000 and a global streaming audience.
 
@@ -145,15 +145,17 @@ Sectors: 7 Years in Finance, 4.5 Years in Media & Broadcast, 3 Years in Consulti
 
 ## Do You Want My Help?
 
-<img src="cards/dbt_user_group.jpg" width="45%" align="left" style="padding: 0 10px 10px 0;">
+<img src="cards/dbt_user_group.jpg" width="65%" align="left" style="padding: 0 10px 10px 0;">
 
 I'm available for data analytics consulting projects via [The Information Lab](https://www.theinformationlab.co.uk/). 
 
 You can speak to your Account Manager or contact the team directly through the [website](https://www.theinformationlab.co.uk/).  
 
 <br clear="left">
+<br>
 
 Otherwise, stay up to date with my latest projects on the following social media sites:
+<br>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/will-sutton-14711627/">
