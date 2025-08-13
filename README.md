@@ -115,11 +115,11 @@ Sectors: 7 Years in Finance, 4.5 Years in Media & Broadcast, 3 Years in Consulti
 
 <div align="center">
 
-<a href="https://www.credly.com/badges/e9770f0c-83bc-45bb-a859-2a9589bc96df/public_url">
-  <img src="https://github.com/wjsutton/wjsutton.github.io/blob/master/assets/img/credly/2024-tableau-visionary.png?raw=true" width="19%">
+<a href="https://www.credly.com/badges/947c3da1-cb39-4110-9b69-cc5be793b917/public_url">
+  <img src="https://images.credly.com/images/839b1d35-d547-45cb-a393-2c825da6ab9d/blob" width="19%">
 </a>
-<a href="https://www.credly.com/badges/3512eb42-d819-4e6d-b0ed-93fec81d1e91/public_url">
-  <img src="https://github.com/wjsutton/wjsutton.github.io/blob/master/assets/img/credly/tableau-ambassador.png?raw=true" width="19%">
+<a href="https://www.credly.com/badges/495305b6-0fb9-494f-b63e-76bf90b92a2c/public_url">
+  <img src="https://images.credly.com/size/340x340/images/6db922b1-fa57-4cf8-a01b-703540d43a54/image.png" width="19%">
 </a>
 <a href="https://www.credly.com/badges/f481f7d5-a216-4ffc-aa1b-74b7fe388fab">
   <img src="https://github.com/wjsutton/wjsutton.github.io/blob/master/assets/img/credly/tableau-certified-professional.png?raw=true" width="19%">
