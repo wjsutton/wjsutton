@@ -75,13 +75,13 @@ Below are some highlighted projects from my [Tableau Public Profile](https://pub
 
 ## Engineered Data Applications
 
-<a href="https://www.youtube.com/watch?v=2sPJfxeoJ90">
-  <img src="https://img.youtube.com/vi/2sPJfxeoJ90/maxresdefault.jpg" align="right" width="40%" style="padding: 10px;">
+<a href="https://www.youtube.com/watch?v=juD1rQxhiqA">
+  <img src="https://img.youtube.com/vi/juD1rQxhiqA/maxresdefault.jpg" align="right" width="40%" style="padding: 10px;">
 </a>
 
 Over the last few years, I’ve been keen not only to understand what AI can do but also to build genuinely useful applications. While AI has opened many new opportunities and quick ways to get started, there is still immense value in a well-engineered data pipeline that delivers on stakeholder requirements.
 
-- **Chat with your data** on Tableau Server using the [Tableau LangChain Starter Kit](https://github.com/TheInformationLab/tableau_langchain_starter_kit)  
+- **Chat with your data** on Tableau Server using the [Tableau MCP Starter Kit](https://github.com/TheInformationLab/tableau_mcp_starter_kit)  
 - **Ace Tableau’s Data Analyst exam** with my custom OpenAI GPT: [Tableau Certified DA GPT](https://github.com/wjsutton/tableau_certified_da_gpt)  
 - **Master dbt transformations** in my “flawless victory” project: [Pokemon Yellow Legacy](https://github.com/wjsutton/pkmn_yellow_legacy_dbt)  
 
@@ -139,6 +139,9 @@ Sectors: 7 Years in Finance, 4.5 Years in Media & Broadcast, 3.25 Years in Consu
 </a>
 <a>
   <img src="https://www.getdbt.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fwl0ndo6t%2Fmain%2Fa7e8006b3cc47756364a505f7476973cd1695df6-2160x2160.png%3Ffit%3Dmax%26auto%3Dformat&w=3840&q=75" width="19%">
+</a>
+<a>
+  <img src="https://www.getdbt.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fwl0ndo6t%2Fmain%2F785f112d4bcd16ea8886b4166f57c58f4a8793cb-2161x2160.png%3Ffit%3Dmax%26auto%3Dformat&w=3840&q=75" width="19%">
 </a>
 
 </div>
