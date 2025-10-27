@@ -143,6 +143,9 @@ Sectors: 7 Years in Finance, 4.5 Years in Media & Broadcast, 3.25 Years in Consu
 <a>
   <img src="https://www.getdbt.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fwl0ndo6t%2Fmain%2F785f112d4bcd16ea8886b4166f57c58f4a8793cb-2161x2160.png%3Ffit%3Dmax%26auto%3Dformat&w=3840&q=75" width="19%">
 </a>
+<a href="https://credentials.getdbt.com/e532120a-cb26-4638-aa32-2c2eea988687#acc.2D0MveAw">
+  <img src="https://templates.images.credential.net/17313650416495825951877856873078.png" width="19%">
+</a>
 
 </div>
 
