@@ -101,7 +101,7 @@ Here are some of my materials that I compiled for internal and external training
 - [The Summer of SQL](https://github.com/wjsutton/the_summer_of_sql)
 - [Python Charmers](https://github.com/wjsutton/python_charmers) 
 
-## Career Timeline, Sep 2007 - Oct 2025
+## Career Timeline, Sep 2007 - Nov 2025
 
 12 Years in Data & Analytics
 
