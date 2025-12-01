@@ -101,7 +101,7 @@ Here are some of my materials that I compiled for internal and external training
 - [The Summer of SQL](https://github.com/wjsutton/the_summer_of_sql)
 - [Python Charmers](https://github.com/wjsutton/python_charmers) 
 
-## Career Timeline, Sep 2007 - Nov 2025
+## Career Timeline, Sep 2007 - Dec 2025
 
 12 Years in Data & Analytics
 
@@ -109,7 +109,7 @@ Here are some of my materials that I compiled for internal and external training
   <img src="https://github.com/wjsutton/wjsutton/blob/master/cards/work_timeline.png?raw=true">
 </a>
 
-Sectors: 7 Years in Finance, 4.5 Years in Media & Broadcast, 3.25 Years in Consulting | Full details available on [LinkedIn](https://www.linkedin.com/in/will-sutton-14711627/)
+Sectors: 7 Years in Finance, 4.5 Years in Media & Broadcast, 3.5 Years in Consulting | Full details available on [LinkedIn](https://www.linkedin.com/in/will-sutton-14711627/)
 
 ### Certifications
 
