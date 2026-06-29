@@ -137,10 +137,10 @@ Sectors: 7 Years in Finance, 4.5 Years in Media & Broadcast, 4 Years in Consulti
 <a href="https://www.salesforce.com/trailblazer/willsutton0202">
   <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/ai-associate.png?v=2" width="19%">
 </a>
-<a>
+<a href="https://credentials.getdbt.com/4bdd19a8-b15b-40fa-9fcb-6f2e3d8d1b0c#acc.8JWUF6uB">
   <img src="https://www.getdbt.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fwl0ndo6t%2Fmain%2Fa7e8006b3cc47756364a505f7476973cd1695df6-2160x2160.png%3Ffit%3Dmax%26auto%3Dformat&w=3840&q=75" width="19%">
 </a>
-<a>
+<a href="https://credentials.getdbt.com/fe2920d2-045c-4839-874b-ce2586dec021#acc.irZHeMmA">
   <img src="https://www.getdbt.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fwl0ndo6t%2Fmain%2F785f112d4bcd16ea8886b4166f57c58f4a8793cb-2161x2160.png%3Ffit%3Dmax%26auto%3Dformat&w=3840&q=75" width="19%">
 </a>
 <a href="https://credentials.getdbt.com/e532120a-cb26-4638-aa32-2c2eea988687#acc.2D0MveAw">
